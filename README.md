@@ -1,7 +1,10 @@
-### Hello,  Im Alex Grazda. Its nice to meet you!  👋
-<br>
+![Banner](./banner.png)
+
+
 
 <!--
+### Hello,  Im Alex Grazda. Its nice to meet you!  👋
+<br>
 
 Here are some ideas to get you started:
 
