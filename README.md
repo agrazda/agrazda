@@ -1,6 +1,5 @@
 ### Hello,  Im Alex Grazda. Its nice to meet you!  👋
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${agrazda}.${agrazda})
 
 <!--
 
